@@ -1,0 +1,5 @@
+[ENGLISH]
+
+Changes made to version 1.2.0
+
+- The "go" button has been moved before the search bar

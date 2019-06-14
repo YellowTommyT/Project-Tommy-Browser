@@ -1,0 +1,5 @@
+[ITALIANO] 
+
+Novità apportate alla versione 1.2.0
+
+- Il tasto "go" è stato spostato prima della barra di ricerca
