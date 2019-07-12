@@ -1,0 +1,26 @@
+Novità | Tommy Browser 2.0
+
+Dopo 10 versioni beta e due versioni Pre-release la versione 2.0 del browser è arrivato alla versione finale.
+Questa versione introduce cambaimenti grafici, aggiunte di elementi e risolve vari problemi che persistevano nelle versioni della famiglia 1.0
+
+GRAFICA
+-Cambaito il colore del background
+-I bottoni hanno un effetto tridimensionale
+-La barra URL è stata ridotta
+-É stata aggiunta una casella di testo non modificabile che indica la versione che si sta usando
+-Aggiunta icona - verranno mostrate due icone diverse
+-Ridimensionamento della grandezza del browser
+
+FUNZIONALITà
+-Quando si apre il Tommy Browser verrà visualizzato nella parte alta dello schermo
+-La barra URL funziona! In caso di immisione di un URL sbagliato viene indicato in automatico dal browser
+
+RISOLUZIONI 
+-Alcuni problemi che si potessero esserci, ora non ci saranno
+
+AVVISO
+Gli SCRIPT non funzionano correttamente! Se si sa come risolvere, conttattare lo sviluppatore!
+
+
+
+

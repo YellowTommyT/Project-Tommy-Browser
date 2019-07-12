@@ -1,0 +1,22 @@
+News | Tommy Browser 2.0
+
+After 10 beta versions and two Pre-release versions, version 2.0 of the browser has reached the final version.
+This version introduces graphical changes, element additions and solves various problems that persisted in the 1.0 family versions
+
+GRAPHICS
+-Ground the background color
+- The buttons have a three-dimensional effect
+- The URL bar has been reduced
+-An editable text box has been added indicating the version you are using
+-Added icon - two different icons will be shown
+-Resizing the size of the browser
+
+Functionality
+- When you open the Tommy Browser it will be displayed at the top of the screen
+- The URL bar works! If an incorrect URL is entered, it is automatically indicated by the browser
+
+RESOLUTIONS
+-Some problems that could be there will not be there now
+
+NOTICE
+SCRIPTs do not work properly! If you know how to solve, contact the developer!
