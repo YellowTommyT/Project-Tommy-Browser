@@ -1,0 +1,19 @@
+Tommy Browser 3 (Project Reverse) Beta 1
+
+- É iniziata la fase beta del Tommy Browser 3, chiamato anche con il nome in codice (Project Reverse)
+- Attualmente essendo in una versione beta, è in fase ancora progettuale, cioè in ogni beta può cambaire qualcosa di piccolo o di grande
+- Le versioni beta possono non permettere un corretto comportamento dell'applicazione, del tipo: bug, chisure improvvise, blocchi, glitch (sovrapposizioni di immagini o elementi)
+
+Novità introddotte
+- La grafica è stata rivista
+  - La barra URL (attualmente non disponibile) si trova in alto a sinistra
+  - I bottoni sono ora tradotti solo in italiano, contengono dei simboli al loro interno che ne indicano il funzionamento. I bottini si trovano dopo la barra URL
+  - La barra di indicazione della versione che si sta usando è in basso a destra
+  - La dimensione della vista web è stata ridimensionata
+  - L'applicazione, ha come unica dimensione di visualizzazione la 1366 x 768, ques to è stato introdotto per evitare una scorretta visualizzazione quando si andava a 
+    ridimensionare, ciò poteva comportare la scomparsa di elementi in caso di rimpicciolamento e nell'allargamento poteva presentare spazi vuoti
+
+AVVISO: Sono state rilasciate allo stesso tempo le versioni 1.3 e 2.0.1 
+
+SUPPORTI: le versioni per iOS, macOS e Android (forse) saranno disponibili nei prossimi giorni, oppure a Ottobre dove è prevista la versione finale. 
+          Il rilascio potrà slittare anche per Dicembre
