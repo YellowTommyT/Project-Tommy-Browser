@@ -1,0 +1,13 @@
+Tommy Browser 3 beta 3
+
+ATTENZIONE!: Questa è una versione beta, di conseguenza può contenere problemi di stabilità, crash e bug al browser stesso
+
+COSA CAMBIA IN QUESTA NUOVA BETA?
+
+- La barra URL non supporta la MultiLine
+  La barra URL ha attualmente un bug. Quando si scrive, indirizza in automatico a bing
+- Il tasto ricarica è stato modificato in ricarica la pagina
+- Ora la casella di testo che indica la versione che si sta utilizzando non può essere modificabile
+- Risoluzioni di problemi
+
+IN PROGETTAZIONE LE IMPOSTAZIONI: Attualmente la casella in alto a destra è in progettazione e non è funzionante
